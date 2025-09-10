@@ -269,6 +269,7 @@ span{
     padding:80px 0;
 }
 .row{
+    padding: 50px 0 100px 0;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -344,10 +345,10 @@ display: block
 
 /*--SKILLS--*/
 * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
         
         body {
@@ -360,7 +361,7 @@ display: block
         .skills-container {
             max-width: 1200px;
             margin: 0 auto;
-            padding: 0 20px;
+            padding: 50px 20px;
         }
 
         .skills-header {
