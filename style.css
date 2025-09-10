@@ -351,9 +351,9 @@ display: block
 }
 
         
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, white);
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, white);
             padding: 50px 0;
             min-height: 100vh;
         }
