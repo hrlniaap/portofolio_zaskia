@@ -224,13 +224,13 @@ span{
         content: "Web Developer";
     }
     21%, 40%{
-        content: "Graphic designer";
+        content: "Graphic Designer";
     }
     41%, 60%{
         content: "UI Designer";
     }
     81%, 100%{
-        content: "Writer";
+        content: "Graphic Designer";
     }
 }
 
@@ -555,6 +555,7 @@ body {
         }
 
         .projects .section-title {
+        padding-bottom: 2.5rem;
         font-size: 4rem;
         color: #ffffff;
         margin-bottom: 1rem;
@@ -585,11 +586,23 @@ body {
         transform: translateY(-5px);
         }
 
-        .project-img {
+        /*project img*/
+        .project-img1{
+        width: 65%;
+        border-radius: 5px;
+        margin-bottom: 8rem;
+        }
+        .project-img2{
         width: 45%;
         border-radius: 5px;
         margin-bottom: 1rem;
         }
+        .project-img3 {
+        width: 45%;
+        border-radius: 5px;
+        margin-bottom: 1rem;
+        }
+        
                 .projects-button {
         text-align: center;
         margin-top: 30px;
@@ -621,6 +634,7 @@ body {
         }
 
         .experience .section-title {
+        padding-bottom: 2.5rem;
         text-align: center;
         font-size: 4.5rem;
         margin-bottom: 1px;
@@ -715,7 +729,8 @@ body {
         }
 
         .contact .section-title {
-            text-align: center;
+        padding-bottom: 2.5;
+        text-align: center;
         font-size: 5rem;
         margin-bottom: 1px;
         color: #ffffff;
