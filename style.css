@@ -60,8 +60,8 @@ nav a{
 
 nav a:hover,
 nav a.active{
-    color: #EC7FA9;
-    border-bottom: 3px solid #EC7FA9;
+    color: #FFB8E0;
+    border-bottom: 3px solid #FFB8E0;
 }
 
 @media(max-width:995px){
@@ -588,9 +588,9 @@ body {
 
         /*project img*/
         .project-img1{
-        width: 65%;
+        width: 75%;
         border-radius: 5px;
-        margin-bottom: 8rem;
+        margin-bottom: 4rem;
         }
         .project-img2{
         width: 45%;
